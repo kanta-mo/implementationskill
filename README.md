@@ -1,4 +1,3 @@
-implementationskill
 #4/13
 Pythonで11まで実装したがOpenGLを使うことを考えるとリファレンスや参考になる記事の多さからC++で書き直し始めた。
 
